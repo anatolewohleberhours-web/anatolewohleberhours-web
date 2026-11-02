@@ -12,7 +12,6 @@ Lycéen à Paris, fondateur de Victor et développeur web autodidacte (HTML, CSS
 
 - **[Emmanuelle Teyras](https://emmanuelle-teyras.netlify.app/)** : site de l'illustratrice.
 - **[Nicolas Hours](https://nicolashours.com)**
-- **[Vitrine Neuve](https://vitrine-neuve.netlify.app/)** : mon studio de création de sites pour artisans et commerçants.
 - **Tennis Club de Château-Landon** : site vitrine responsive (projet en cours).
 
 ## Contact
